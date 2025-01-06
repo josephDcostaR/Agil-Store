@@ -2,7 +2,6 @@ package org.example;
 
 import org.example.controller.GerenciadorDeProdutos;
 import org.example.model.Produto;
-
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
